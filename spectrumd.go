@@ -2,7 +2,7 @@ package main
 
 import (
     "github.com/mjibson/go-dsp/fft"
-    "spectrumd/pulsesource"
+    "github.com/olegsson/spectrumd/pulsesource"
     "math/cmplx"
     "math"
     "fmt"
